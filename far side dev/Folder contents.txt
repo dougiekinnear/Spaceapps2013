@@ -1,0 +1,6 @@
+Rhino files with original moon surface and .stl
+jpg used to create the surface map
+image used to create the surface map
+Image of resulting 3D print
+
+These files are the first attempt at mapping and printing the lunar surface
